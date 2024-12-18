@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Car, Clock, Package, Shield } from 'lucide-react';
 
 export default function CabConnect() {

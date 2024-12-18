@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Calendar, User } from 'lucide-react';
 import Hero from '../components/shared/Hero';
 import SectionContainer from '../components/shared/SectionContainer';

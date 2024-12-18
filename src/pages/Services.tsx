@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Building2, Paintbrush, Car, Wheat } from 'lucide-react';
 
 export default function Services() {

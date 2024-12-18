@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Wheat, Truck, Factory, Store } from 'lucide-react';
 
 export default function FoodBasket() {

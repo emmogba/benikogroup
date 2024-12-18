@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Paintbrush, Palette, Droplet, Building } from 'lucide-react';
 
 export default function PajebPaint() {

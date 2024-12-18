@@ -1,5 +1,5 @@
-import React from 'react';
-import { ArrowRight, Building2, Users, Award, Globe, HardHat, Briefcase, Paintbrush } from 'lucide-react';
+
+import { ArrowRight, Building2, Award, Globe, HardHat, Briefcase, Paintbrush } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import ScrollAnimation from '../components/home/ScrollAnimation';
 import TeamMember from '../components/home/TeamMember';
